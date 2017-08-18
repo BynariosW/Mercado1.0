@@ -1,5 +1,8 @@
-Caracteristicas:
+Mercado Online.
 
+Este mercado consiste en la creacion de una red online, dedicada a la compra venta de bienes y recursos ofrecidos por un usuario registrado en la web, esta cuenta con una variada y amplia 
+
+Caracteristicas:
 
 1-. Ventas de Articulos
 
@@ -12,12 +15,9 @@ Caracteristicas:
 5-. Redes de mercadeo sobre un producto 
 
 
-
-
 Cuenta con:
 
-
-1-. Seguridad full
+1-. Seguridad
 
 2-. Grupos 
 
