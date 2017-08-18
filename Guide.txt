@@ -3,7 +3,7 @@ Caracteristicas:
 
 1-. Ventas de Articulos
 
-2-. Adquisición de Articulos
+2-. AdquisiciÃ³n de Articulos
 
 3-. Vision en mapa del area local en cual se ejecuta la transaccion (tienda)
 
@@ -32,3 +32,7 @@ Cuenta con:
 7-. Perfil de usuario
 
 8-. Variados medios de pagos
+
+9-. Reputacion de usuario o "Tienda"
+
+10-. Servicios brindados por la empresa
