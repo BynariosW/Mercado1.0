@@ -1,6 +1,6 @@
 Mercado Online.
 
-Este mercado consiste en la creacion de una red online, dedicada a la compra venta de bienes y recursos ofrecidos por un usuario registrado en la web, esta cuenta con una variada y amplia 
+Este mercado consiste en la creacion de una red online, dedicada a la compra venta de bienes y recursos ofrecidos por un usuario registrado en la web, esta cuenta con variadas formas de ayuda para que una compra sea 100% semantica.
 
 Caracteristicas:
 
